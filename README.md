@@ -7,5 +7,40 @@
 ![Licence](https://img.shields.io/github/license/walidsi/analyze-AB-test-result)
 ![Issues](https://img.shields.io/github/issues/walidsi/analyze-AB-test-result)
 
+
+### Goal
 A/B tests are very commonly performed by data analysts and data scientists. This project aims to understand the results of an A/B test run by an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+### Dataset
+
+
+### Process
+
+### Summary of Findings
+
+### Install
+This project requires **Python 3.x** and the following Python libraries installed:
+- [NumPy](http://www.numpy.org)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org)
+- [statsmodels](https://www.statsmodels.org)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+### Code
+Code is provided in the `Analyze_ab_test_results_notebook.ipynb` notebook file.
+
+### Run
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook Analyze_ab_test_results_notebook.ipynb
+```  
+or
+```bash
+jupyter notebook Analyze_ab_test_results_notebook.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
+
 
