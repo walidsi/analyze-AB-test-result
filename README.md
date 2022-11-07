@@ -17,6 +17,7 @@ A/B tests are very commonly performed by data analysts and data scientists. This
 ### Process
 
 ### Summary of Findings
+My analysis approach tested our hypothesis that the new page design does not provide an improvement in conversion rate over the old page design. I tested our hypothesis using two statistical methods, namely sampling distribution and using logistic regression. Interpreting the results from both approaches did not provide any evidence against the null hypothesis in favor of the alternate hypothesis. Hence our recommendation is to continue to use the current page design and not the new page design.
 
 ### Install
 This project requires **Python 3.x** and the following Python libraries installed:
